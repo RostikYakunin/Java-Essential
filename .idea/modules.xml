@@ -3,6 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java Essential.iml" filepath="$PROJECT_DIR$/.idea/Java Essential.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itvdn.je.hw1.oop/itvdn.je.hw1.oop.iml" filepath="$PROJECT_DIR$/itvdn.je.hw1.oop/itvdn.je.hw1.oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itvdn.je.hw2.classes/itvdn.je.hw2.classes.iml" filepath="$PROJECT_DIR$/itvdn.je.hw2.classes/itvdn.je.hw2.classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itvdn.je.hw3.extends/itvdn.je.hw3.extends.iml" filepath="$PROJECT_DIR$/itvdn.je.hw3.extends/itvdn.je.hw3.extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itvdn.je.hw4.abstractions/itvdn.je.hw4.abstractions.iml" filepath="$PROJECT_DIR$/itvdn.je.hw4.abstractions/itvdn.je.hw4.abstractions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itvdn.je.hw5.lists/itvdn.je.hw5.lists.iml" filepath="$PROJECT_DIR$/itvdn.je.hw5.lists/itvdn.je.hw5.lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itvdn.je.hw6.1.static-nested-classes/itvdn.je.hw6.1.static-nested-classes.iml" filepath="$PROJECT_DIR$/itvdn.je.hw6.1.static-nested-classes/itvdn.je.hw6.1.static-nested-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itvdn.je.hw6.2.anonimus-classes/itvdn.je.hw6.2.anonimus-classes.iml" filepath="$PROJECT_DIR$/itvdn.je.hw6.2.anonimus-classes/itvdn.je.hw6.2.anonimus-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itvdn.je.hw7.exceptions/itvdn.je.hw7.exceptions.iml" filepath="$PROJECT_DIR$/itvdn.je.hw7.exceptions/itvdn.je.hw7.exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itvdn.je.hw8.object/itvdn.je.hw8.object.iml" filepath="$PROJECT_DIR$/itvdn.je.hw8.object/itvdn.je.hw8.object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itvdn.je.hw9.generics/itvdn.je.hw9.generics.iml" filepath="$PROJECT_DIR$/itvdn.je.hw9.generics/itvdn.je.hw9.generics.iml" />
     </modules>
   </component>
 </project>
